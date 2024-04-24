@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhanyaDarshini&label=Profile%20views&color=0e75b6&style=flat" alt="DhanyaDarshini" /> </p>
 
-- 🔭 I’m currently studying **B.TECH AIML**
+- 🔭 I’m currently Pursuing **B.TECH AIML**
 
 
 
