@@ -22,7 +22,6 @@
 <h3 align="left">skills:</h3>
 <p align="left">
 <p> ➤ C<br>
- ➤ C<br>
  ➤ Python <br>
  ➤ Machine Learning</p>
  
